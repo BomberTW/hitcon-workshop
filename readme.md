@@ -1,1 +1,1 @@
-ssh update
+update update
